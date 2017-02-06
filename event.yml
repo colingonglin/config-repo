@@ -8,4 +8,4 @@ spring:
   profiles: docker
 feature:
   x:
-    enable: false
+    enable: true
